@@ -1,0 +1,5 @@
+{
+  "name": "AI Document Auditor",
+  "description": "Upload a master document and a document to be audited. The AI will analyze both Excel files and highlight any discrepancies found, streamlining your review process.",
+  "requestFramePermissions": []
+}
